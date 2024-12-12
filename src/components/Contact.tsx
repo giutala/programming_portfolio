@@ -2,9 +2,8 @@ import React from 'react';
 import { Mail, Github, Linkedin, Twitter } from 'lucide-react';
 
 const socialLinks = [
-  { icon: Github, href: "https://github.com", label: "GitHub" },
-  { icon: Linkedin, href: "https://linkedin.com", label: "LinkedIn" },
-  { icon: Twitter, href: "https://twitter.com", label: "Twitter" }
+  { icon: Github, href: "https://github.com/giutala/", label: "GitHub" },
+  { icon: Linkedin, href: "https://www.linkedin.com/in/giulia-tal%C3%A0-1231ba20a/", label: "LinkedIn" }
 ];
 
 export function Contact() {
@@ -17,7 +16,7 @@ export function Contact() {
             <Mail className="w-6 h-6" />
             <a href="mailto:john.doe@example.com" 
                className="text-lg hover:underline">
-              john.doe@example.com
+              giuliatala32@gmail.com
             </a>
           </div>
           <div className="flex gap-6">

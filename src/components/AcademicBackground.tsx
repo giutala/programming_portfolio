@@ -4,22 +4,10 @@ import { TimelineItem } from './TimelineItem';
 
 const academicHistory = [
   {
-    year: "2023",
-    title: "Ph.D. in Artificial Intelligence",
-    institution: "Stanford University",
-    description: "Research focus on deep learning and computer vision. Thesis on advanced neural architectures for autonomous systems."
-  },
-  {
-    year: "2020",
-    title: "M.S. in Computer Science",
-    institution: "MIT",
-    description: "Specialized in machine learning and data science. Published 3 papers in top-tier conferences."
-  },
-  {
-    year: "2018",
-    title: "B.S. in Mathematics",
-    institution: "Harvard University",
-    description: "Double major in Mathematics and Computer Science. Graduated summa cum laude."
+    year: "2025",
+    title: "B. Sc. Management Engineering",
+    institution: "Politecnico di Milano",
+    description: "Completed my studies at the best university in Italy, 23rd worldwide."
   }
 ];
 

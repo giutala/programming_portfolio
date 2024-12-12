@@ -10,16 +10,14 @@ export function Profile() {
           <div className="flex items-center gap-4 animate-fade-in">
             <Brain className="w-12 h-12" />
             <h1 className="text-4xl sm:text-5xl font-bold bg-gradient-to-r from-gray-900 to-gray-600 bg-clip-text text-transparent">
-              John Doe
+              Giulia Talà
             </h1>
           </div>
           <h2 className="text-2xl sm:text-3xl font-medium text-gray-700 animate-fade-in-delay-1">
-            AI Data Scientist
+            Quant AI Engineer
           </h2>
           <p className="text-lg text-gray-600 leading-relaxed animate-fade-in-delay-2">
-            Passionate about leveraging artificial intelligence to solve complex problems. 
-            Specializing in machine learning, deep learning, and data analytics with a 
-            focus on developing scalable AI solutions that drive business value.
+          Passionate about applying artificial intelligence to solve challenges in quantitative finance. Focused on using machine learning, deep learning, and data analytics for trading, risk management, and financial forecasting.
           </p>
           <div className="flex gap-4 animate-fade-in-delay-3">
             <a href="https://github.com" target="_blank" rel="noopener noreferrer"

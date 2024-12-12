@@ -3,18 +3,28 @@ import { Award, BookOpen, Trophy } from 'lucide-react';
 
 const achievements = [
   {
-    title: "Research Publications",
-    description: "Published 5 papers in top-tier AI conferences",
+    title: "Head of Software Engineering - Quantitative Finance Division at Starting Finance Polimi Club",
+    description: "Guided over 12 talented individuals through projects regarding applications of machine learning onto quantitative finance.",
     icon: BookOpen
   },
   {
-    title: "Industry Impact",
-    description: "Developed ML models with 40% improved accuracy",
+    title: "Winner of the ASSOSoftware AI Hackaton",
+    description: "With a team of another 2 programmers, we won the ASSOSoftware AI Hackaton, about AI applications onto management systems software: we built a model for our application that aimed at being a tool to junior fund managers, helping them towards informed portfolio diversification decisions by using a dynamic warping clustering algorithm, sentiment analysis and stock prediction.",
     icon: Trophy
   },
   {
-    title: "Recognition",
-    description: "Best Paper Award at AI Summit 2023",
+    title: "Winner of Data Strategy Hackaton by PMDS",
+    description: "First place at the Data Strategy Hackaton organized by Polimi Career Service and Polimi Data Scientists Student Club, presenting a business strategy after analysing a data set on a Brazilian e-commerce company utilizing statical metrics.",
+    icon: Award
+  },
+  {
+    title: "Second place at the GDSC AI Hackaton, fintech track",
+    description: "With a team of another 3 programmers, we won second place at the Google Developers Student Club AI Hackaton, in the fintech track, by building an LLM-based application.",
+    icon: Award
+  },
+  {
+    title: "Second place at the Alkemy AI Hackaton",
+    description: "With a team of another 3 programmers, we won second place at the Alkemy AI Hackaton by building the best performing model for predicting customer likeability of new online product: our solution involved leveraging the power of the XGBoost Classifier with deep data analysis, and the use of the SHAP library and statistical methods for feature importance.",
     icon: Award
   }
 ];
