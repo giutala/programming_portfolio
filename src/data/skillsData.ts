@@ -1,6 +1,7 @@
 import { Brain, Code2, Database, BarChart } from 'lucide-react';
 import type { Skill } from '../types';
 
+// FIXME: Replace with links to actual projects
 export const skillsData: Skill[] = [
   {
     category: "Machine Learning",
