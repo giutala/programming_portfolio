@@ -50,12 +50,6 @@ export const skillsData: Skill[] = [
     icon: Database,
     projects: [
       {
-        name: "Data Strategy Hackaton",
-        description: "The challenge was to conduct thorough data analysis, and then develop a comprehensive business strategy based on our findings.",
-        technologies: ["Pandas, numpy", "Plotly, seaborn", "sklearn"],
-        github: "https://github.com/giutala/datastrategy_-hackaton"
-      },
-      {
         name: "2024 US Elections report",
         description: "Co-authored a report on the recent US elections, focusing on the study of financial markets.",
         technologies: ["Latex"],
