@@ -15,7 +15,7 @@ const achievements = [
   {
     title: "Winner of Data Strategy Hackaton by PMDS",
     description: "First place at the Data Strategy Hackaton organized by Polimi Career Service and Polimi Data Scientists Student Club, presenting a business strategy after analysing a data set on a Brazilian e-commerce company utilizing statical metrics.",
-    icon: Award
+    icon: Trophy
   },
   {
     title: "Second place at the GDSC AI Hackaton, fintech track",
