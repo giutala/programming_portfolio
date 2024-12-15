@@ -14,7 +14,7 @@ export function Contact() {
         <div className="flex flex-col items-center text-center">
           <div className="flex items-center gap-2 mb-8">
             <Mail className="w-6 h-6" />
-            <a href="mailto:john.doe@example.com" 
+            <a href="mailto:giuliatala32@gmail.com"
                className="text-lg hover:underline">
               giuliatala32@gmail.com
             </a>

@@ -20,15 +20,15 @@ export function Profile() {
           Passionate about applying artificial intelligence to solve challenges in quantitative finance. Focused on using machine learning, deep learning, and data analytics for trading, risk management, and financial forecasting.
           </p>
           <div className="flex gap-4 animate-fade-in-delay-3">
-            <a href="https://github.com" target="_blank" rel="noopener noreferrer"
+            <a href="https://github.com/giutala" target="_blank" rel="noopener noreferrer"
                className="p-3 border border-gray-200 rounded-full hover:bg-gray-100 transition-colors">
               <Github className="w-5 h-5" />
             </a>
-            <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer"
+            <a href="https://www.linkedin.com/in/giulia-tal%C3%A0-1231ba20a/" target="_blank" rel="noopener noreferrer"
                className="p-3 border border-gray-200 rounded-full hover:bg-gray-100 transition-colors">
               <Linkedin className="w-5 h-5" />
             </a>
-            <a href="mailto:john.doe@example.com"
+            <a href="mailto:giuliatala32@gmail.com"
                className="p-3 border border-gray-200 rounded-full hover:bg-gray-100 transition-colors">
               <Mail className="w-5 h-5" />
             </a>
