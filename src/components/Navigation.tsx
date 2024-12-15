@@ -31,7 +31,7 @@ export function Navigation() {
     <nav className="fixed top-0 left-0 right-0 bg-white/80 backdrop-blur-sm z-50 border-b border-gray-200">
       <div className="max-w-6xl mx-auto px-4">
         <div className="flex items-center justify-between h-16">
-          <span className="text-xl font-bold">Portfolio</span>
+          <span className="text-xl font-bold">Giulia Talà</span>
           
           <button
             onClick={() => setIsOpen(!isOpen)}
