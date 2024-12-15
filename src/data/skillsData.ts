@@ -11,21 +11,21 @@ export const skillsData: Skill[] = [
       {
         name: "DTW Clustering in the S&P500",
         description: "Using the S&P 500 dataset, guided development of paper that applies dynamic time warping (DTW) to analyze shifting lead-lag relationships in economic time series.",
-        technologies: ["Keras", "Python", "Pandas, numpy"],
+        technologies: ["Keras", "Python", "Numpy","pandas"],
         github: "https://github.com/quantfin-sfpolimi/dtwclustering_sp500",
         demo: "https://"
       },
       {
         name: "Correlation-Aware LSTM Forecasting with Granger Causality for Stock Dynamics",
         description: "This project combines Granger causality analysis and moving correlations to identify directional relationships between two stock time series. By determining which stock influences the other, an LSTM (Long Short-Term Memory) model predicts the target stock's dynamics, leveraging its moving correlation with the influencing stock. This approach enhances accuracy in forecasting and uncovers interdependencies in stock trends.",
-        technologies: ["Keras", "Pandas, numpy", "Python"],
+        technologies: ["Keras", "Numpy","pandas", "Python"],
         github: "https://github.com/quantfin-sfpolimi/nasdaq_causal-analysis_lstm",
         demo: "https://"
       },
       {
         name: " NLP Analysis of Central Bank Communications and Economic Impact",
         description: "This analysis uses natural language processing (NLP) to assess the impact of central bank communications on the economy, capturing insights into policy effects and market responses.",
-        technologies: ["BERT", "Pandas, numpy", "Python"],
+        technologies: ["BERT", "Numpy","pandas", "Python"],
         github: "https://github.com/quantfin-sfpolimi/cb-impact-nlps",
         demo: "https://"
       }
@@ -46,7 +46,7 @@ export const skillsData: Skill[] = [
   },
   {
     category: "Data Science",
-    items: ["Numpy, pandas", "Seaborn, Matplotlib, plotly", "sklearn"],
+    items: ["Numpy","pandas", "Seaborn, Matplotlib, plotly", "sklearn"],
     icon: Database,
     projects: [
       {
@@ -65,7 +65,7 @@ export const skillsData: Skill[] = [
   },
   {
     category: "Frontend",
-    items: ["JS, CSS, HTML", "Wordpress", "React", "FastAPI"],
+    items: ["HTML","CSS","JS", "Wordpress", "React", "FastAPI"],
     icon: BarChart,
     projects: [
       {
@@ -78,7 +78,7 @@ export const skillsData: Skill[] = [
       {
         name: "Personal photography portfolio",
         description: "My personal photography portfolio.",
-        technologies: ["React", "HTML, CSS, JS", "Vite"],
+        technologies: ["React", "HTML","CSS","JS", "Vite"],
         github: "https://github.com/giutala/photo.gtala.it",
         demo: "https://photo.gtala.it/"
       }
