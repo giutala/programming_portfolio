@@ -8,7 +8,7 @@ export function Skills() {
     <section id="skills" className="min-h-screen flex items-center justify-center px-4 bg-gray-50">
       <div className="max-w-4xl w-full py-20">
         <h2 className="text-3xl font-bold mb-12">Technical Expertise</h2>
-        <p className="text-3xl font-bold mb-12">Click on the box for examples.</p>
+        <p className="text-lg text-gray-600 leading-relaxed animate-fade-in-delay-2">Click on the box for examples.</p>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
           {skillsData.map((skill) => (
             <SkillCard key={skill.category} skill={skill} />
